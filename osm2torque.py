@@ -90,6 +90,19 @@ class OSM2Torque:
 						
 					self.osm['highways'].append (hw)				
 	
+	
+	
+	def _translateCoord (self, lat, lon):
+		lonf = float (self.osm['bounds']['maxlon']) - float (self.osm['bounds']['minlon'])
+		latf = float (self.osm['bounds']['maxlat']) - float (self.osm['bounds']['minlat'])
+
+		lat1 = float (lat) - float (self.osm['bounds']['minlat'])
+		lon1 = float (lon) - float (self.osm['bounds']['minlon'])
+		
+		return (lat1 * 1024 / latf - 128, lon1 *  1024 / lonf - 128)
+		
+		
+		
 	def _generateRoad (self, hw):
 		if not hw['type'] in self.MATERIALS:
 			return None
@@ -99,7 +112,7 @@ class OSM2Torque:
 		data += '\ttextureLength = "5";\n'
 		data += '\tbreakAngle = "3";\n'
 		data += '\trenderPriority = "10";\n'
-		data += '\tposition = "9.80889 2.39879 240.942";\n'
+		data += '\tposition = "0 0 2";\n'
 		data += '\trotation = "1 0 0 0";\n'
 		data += '\tscale = "1 1 1";\n'
 		data += '\tcanSave = "1";\n'
@@ -107,7 +120,8 @@ class OSM2Torque:
 
 		for nd in hw['nodes']:
 			node = self.osm['nodes'][nd]
-			data += '\tNode = "' + str (float (node['lat']) * 10000.0 -392000) + ' ' + str (float (node['lon']) * 10000.0 - 92000) + ' -35.000000 10.000000";\n'
+			lat,lon = self._translateCoord (node['lat'], node['lon'])
+			data += '\tNode = "' + str (lat) + ' ' + str (lon) + ' 2.000000 10.000000";\n'
 
 		data += "};\n\n"
 		return data		

@@ -1,0 +1,3047 @@
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "633.293889362 1362.17458564 2.000000 10.000000";
+	Node = "633.930076596 1360.68667403 2.000000 10.000000";
+	Node = "634.522689362 1358.06161326 2.000000 10.000000";
+	Node = "634.906144681 1353.09436464 2.000000 10.000000";
+	Node = "634.522689362 1347.73675138 2.000000 10.000000";
+	Node = "633.463829787 1340.78090608 2.000000 10.000000";
+	Node = "622.622502128 1305.31429834 2.000000 10.000000";
+	Node = "596.368885106 1265.65268508 2.000000 10.000000";
+	Node = "577.44013617 1237.05140331 2.000000 10.000000";
+	Node = "544.218961702 1168.95823204 2.000000 10.000000";
+	Node = "538.715506383 1141.76565746 2.000000 10.000000";
+	Node = "538.031387234 1139.61299448 2.000000 10.000000";
+	Node = "533.787234043 1126.22744751 2.000000 10.000000";
+	Node = "527.050621276 1101.47323757 2.000000 10.000000";
+	Node = "522.087489362 1083.22510497 2.000000 10.000000";
+	Node = "517.272510638 1065.53140331 2.000000 10.000000";
+	Node = "516.274655319 1060.86682873 2.000000 10.000000";
+	Node = "508.836493617 1026.10457459 2.000000 10.000000";
+	Node = "505.860357447 1004.88061878 2.000000 10.000000";
+	Node = "499.746859575 961.25878453 2.000000 10.000000";
+	Node = "497.006025532 939.91319337 2.000000 10.000000";
+	Node = "492.064680851 921.068198895 2.000000 10.000000";
+	Node = "486.482791489 909.094187845 2.000000 10.000000";
+	Node = "478.39972766 893.660640884 2.000000 10.000000";
+	Node = "474.103285106 889.26479558 2.000000 10.000000";
+	Node = "470.116221277 882.071337017 2.000000 10.000000";
+	Node = "442.110910638 842.341834254 2.000000 10.000000";
+	Node = "433.526740425 835.19080663 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "844.843574468 -52.0344751381 2.000000 10.000000";
+	Node = "831.291914894 -17.7700773481 2.000000 10.000000";
+	Node = "826.842961702 -5.73949171272 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "507.629480851 102.298165746 2.000000 10.000000";
+	Node = "492.461208511 113.737546961 2.000000 10.000000";
+	Node = "477.288578723 125.971801105 2.000000 10.000000";
+	Node = "467.998502128 133.598055249 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "431.840408511 87.7104088398 2.000000 10.000000";
+	Node = "448.934672341 102.247248619 2.000000 10.000000";
+	Node = "477.288578723 125.971801105 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "404.100902128 103.251447514 2.000000 10.000000";
+	Node = "428.398025532 119.032928177 2.000000 10.000000";
+	Node = "451.313838298 136.299491713 2.000000 10.000000";
+	Node = "487.341208511 167.438143646 2.000000 10.000000";
+	Node = "498.147676596 177.765834254 2.000000 10.000000";
+	Node = "511.041361702 189.363624309 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "462.878502128 129.306872928 2.000000 10.000000";
+	Node = "467.998502128 133.598055249 2.000000 10.000000";
+	Node = "480.513089362 144.084154696 2.000000 10.000000";
+	Node = "498.810008511 159.415867403 2.000000 10.000000";
+	Node = "509.050008511 167.995403315 2.000000 10.000000";
+	Node = "522.928476596 178.656883978 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "508.954144681 120.093701657 2.000000 10.000000";
+	Node = "501.559557447 127.083491713 2.000000 10.000000";
+	Node = "480.513089362 144.084154696 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "501.559557447 127.083491713 2.000000 10.000000";
+	Node = "517.677753191 139.951381215 2.000000 10.000000";
+	Node = "519.002417021 145.671071823 2.000000 10.000000";
+	Node = "526.209634043 151.232353591 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "528.105123404 136.774718232 2.000000 10.000000";
+	Node = "537.016102128 143.606099448 2.000000 10.000000";
+	Node = "550.010008511 155.237834254 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "537.016102128 143.606099448 2.000000 10.000000";
+	Node = "526.209634043 151.232353591 2.000000 10.000000";
+	Node = "509.050008511 167.995403315 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "498.810008511 159.415867403 2.000000 10.000000";
+	Node = "487.341208511 167.438143646 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "498.147676596 177.765834254 2.000000 10.000000";
+	Node = "489.803165957 184.59721547 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "448.934672341 102.247248619 2.000000 10.000000";
+	Node = "428.398025532 119.032928177 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "407.704510638 164.261480663 2.000000 10.000000";
+	Node = "421.003438298 174.900331492 2.000000 10.000000";
+	Node = "443.731880851 193.81321547 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "421.003438298 174.900331492 2.000000 10.000000";
+	Node = "398.980902128 193.971624309 2.000000 10.000000";
+	Node = "379.642553192 219.868640884 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "393.294434043 225.588331492 2.000000 10.000000";
+	Node = "443.731880851 193.81321547 2.000000 10.000000";
+	Node = "464.355676596 178.92561326 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "388.361804255 180.942497238 2.000000 10.000000";
+	Node = "407.704510638 164.261480663 2.000000 10.000000";
+	Node = "425.718195745 148.055690608 2.000000 10.000000";
+	Node = "464.355676596 178.92561326 2.000000 10.000000";
+	Node = "495.851302128 202.140994475 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "423.822706383 230.196331492 2.000000 10.000000";
+	Node = "419.64827234 244.337149171 2.000000 10.000000";
+	Node = "420.598195745 247.196994475 2.000000 10.000000";
+	Node = "425.718195745 248.628331492 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "326.063387234 512.701524862 2.000000 10.000000";
+	Node = "304.964629787 510.588464088 2.000000 10.000000";
+	Node = "291.312748936 509.465458564 2.000000 10.000000";
+	Node = "289.704851064 515.521767956 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "304.964629787 510.588464088 2.000000 10.000000";
+	Node = "301.883914894 524.044729282 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "346.499812766 473.339756906 2.000000 10.000000";
+	Node = "312.83853617 468.87319337 2.000000 10.000000";
+	Node = "274.510434043 463.077127072 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "312.83853617 468.87319337 2.000000 10.000000";
+	Node = "306.337225532 500.569104972 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "350.635029787 455.535734807 2.000000 10.000000";
+	Node = "297.334740426 448.23478453 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "561.287080851 145.354254144 2.000000 10.000000";
+	Node = "550.010008511 155.237834254 2.000000 10.000000";
+	Node = "537.639217021 166.153900553 2.000000 10.000000";
+	Node = "522.928476596 178.656883978 2.000000 10.000000";
+	Node = "511.041361702 189.363624309 2.000000 10.000000";
+	Node = "495.851302128 202.140994475 2.000000 10.000000";
+	Node = "464.020153191 239.253922652 2.000000 10.000000";
+	Node = "455.296544681 248.945149171 2.000000 10.000000";
+	Node = "441.274280851 259.493480663 2.000000 10.000000";
+	Node = "434.154212766 264.848265193 2.000000 10.000000";
+	Node = "412.632782979 281.039911602 2.000000 10.000000";
+	Node = "402.205412766 290.094674033 2.000000 10.000000";
+	Node = "395.033055319 298.92879558 2.000000 10.000000";
+	Node = "389.124357447 311.383690608 2.000000 10.000000";
+	Node = "381.097940426 328.324950276 2.000000 10.000000";
+	Node = "379.128374468 333.125303867 2.000000 10.000000";
+	Node = "376.936578723 339.617237569 2.000000 10.000000";
+	Node = "370.810008511 358.736618785 2.000000 10.000000";
+	Node = "365.419846809 376.048441989 2.000000 10.000000";
+	Node = "362.256340425 388.393016575 2.000000 10.000000";
+	Node = "360.644085106 396.254055249 2.000000 10.000000";
+	Node = "356.386859575 414.575734807 2.000000 10.000000";
+	Node = "352.988051064 440.639646409 2.000000 10.000000";
+	Node = "350.635029787 455.535734807 2.000000 10.000000";
+	Node = "346.499812766 473.339756906 2.000000 10.000000";
+	Node = "345.833123404 475.783779006 2.000000 10.000000";
+	Node = "342.268731915 484.227535912 2.000000 10.000000";
+	Node = "337.044153192 497.152 2.000000 10.000000";
+	Node = "335.227097872 500.076906077 2.000000 10.000000";
+	Node = "331.431761702 506.178475138 2.000000 10.000000";
+	Node = "330.507982979 507.663558011 2.000000 10.000000";
+	Node = "326.063387234 512.701524862 2.000000 10.000000";
+	Node = "320.891097873 519.111425414 2.000000 10.000000";
+	Node = "313.261208511 526.961149171 2.000000 10.000000";
+	Node = "310.851540425 532.344220994 2.000000 10.000000";
+	Node = "310.180493617 539.520707182 2.000000 10.000000";
+	Node = "313.444221277 567.123447514 2.000000 10.000000";
+	Node = "312.62066383 582.415558011 2.000000 10.000000";
+	Node = "311.452868085 605.77520442 2.000000 10.000000";
+	Node = "311.696885107 642.489281768 2.000000 10.000000";
+	Node = "311.535659575 643.657546961 2.000000 10.000000";
+	Node = "308.254502128 667.240662983 2.000000 10.000000";
+	Node = "299.500391489 692.291889503 2.000000 10.000000";
+	Node = "289.051234043 716.32760221 2.000000 10.000000";
+	Node = "276.745804255 741.285480663 2.000000 10.000000";
+	Node = "265.342365957 755.267889503 2.000000 10.000000";
+	Node = "259.289872341 760.970607735 2.000000 10.000000";
+	Node = "250.426825532 769.323845304 2.000000 10.000000";
+	Node = "231.463217021 794.519337017 2.000000 10.000000";
+	Node = "218.173004255 806.470718232 2.000000 10.000000";
+	Node = "211.527897872 814.55239779 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "316.873531915 411.44998895 2.000000 10.000000";
+	Node = "320.315914894 442.492464088 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "802.898791489 225.223425414 2.000000 10.000000";
+	Node = "787.368851064 237.146519337 2.000000 10.000000";
+	Node = "767.315880851 251.561723757 2.000000 10.000000";
+	Node = "748.657293617 264.819977901 2.000000 10.000000";
+	Node = "723.959285106 282.46559116 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "773.015421277 222.428640884 2.000000 10.000000";
+	Node = "787.368851064 237.146519337 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "753.781651064 236.38559116 2.000000 10.000000";
+	Node = "767.315880851 251.561723757 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "732.695965957 248.710364641 2.000000 10.000000";
+	Node = "748.657293617 264.819977901 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "592.556119149 285.249060773 2.000000 10.000000";
+	Node = "587.837004255 280.516596685 2.000000 10.000000";
+	Node = "572.681804255 265.541303867 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "587.837004255 280.516596685 2.000000 10.000000";
+	Node = "566.629310638 299.981082873 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "356.386859575 414.575734807 2.000000 10.000000";
+	Node = "331.118025532 412.575823204 2.000000 10.000000";
+	Node = "316.873531915 411.44998895 2.000000 10.000000";
+	Node = "289.020731915 409.220950276 2.000000 10.000000";
+	Node = "277.390706383 408.53639779 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "355.550229787 192.381878453 2.000000 10.000000";
+	Node = "348.242791489 200.839779006 2.000000 10.000000";
+	Node = "379.642553192 219.868640884 2.000000 10.000000";
+	Node = "393.294434043 225.588331492 2.000000 10.000000";
+	Node = "423.822706383 230.196331492 2.000000 10.000000";
+	Node = "443.352782979 231.944486188 2.000000 10.000000";
+	Node = "464.020153191 239.253922652 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "418.175455319 99.4694364641 2.000000 10.000000";
+	Node = "421.430468085 96.6689944752 2.000000 10.000000";
+	Node = "425.169157447 93.4499005525 2.000000 10.000000";
+	Node = "431.840408511 87.7104088398 2.000000 10.000000";
+	Node = "440.237208511 81.0544088398 2.000000 10.000000";
+	Node = "444.533651064 80.5028066298 2.000000 10.000000";
+	Node = "449.492425532 76.9018342542 2.000000 10.000000";
+	Node = "492.461208511 113.737546961 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "501.149957447 339.294762431 2.000000 10.000000";
+	Node = "502.008374468 340.91279558 2.000000 10.000000";
+	Node = "504.64027234 342.734497238 2.000000 10.000000";
+	Node = "511.041361702 342.785414365 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "572.681804255 265.541303867 2.000000 10.000000";
+	Node = "569.147914893 268.186165746 2.000000 10.000000";
+	Node = "560.624748936 276.760044199 2.000000 10.000000";
+	Node = "552.981787234 286.60119337 2.000000 10.000000";
+	Node = "517.590604255 345.305812155 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "388.849838298 602.157259669 2.000000 10.000000";
+	Node = "413.421480851 598.542143646 2.000000 10.000000";
+	Node = "416.946655319 598.689237569 2.000000 10.000000";
+	Node = "443.191557447 600.018740331 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "389.372731915 622.492994475 2.000000 10.000000";
+	Node = "389.019778723 632.164419889 2.000000 10.000000";
+	Node = "401.355710638 632.63681768 2.000000 10.000000";
+	Node = "405.233838298 632.192707182 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "497.101889362 349.817635359 2.000000 10.000000";
+	Node = "493.646434043 347.48959116 2.000000 10.000000";
+	Node = "488.835812766 345.783867403 2.000000 10.000000";
+	Node = "486.883676596 345.812154696 2.000000 10.000000";
+	Node = "478.120851064 345.939447514 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "398.610519149 687.231292818 2.000000 10.000000";
+	Node = "400.562655319 707.173834254 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "291.343251064 322.726895028 2.000000 10.000000";
+	Node = "376.936578723 339.617237569 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "289.020731915 409.220950276 2.000000 10.000000";
+	Node = "292.245242553 439.154563536 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "362.909957447 598.083889503 2.000000 10.000000";
+	Node = "366.992885106 627.700685083 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "416.946655319 598.689237569 2.000000 10.000000";
+	Node = "413.953089362 624.518364641 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "449.047965957 544.516243094 2.000000 10.000000";
+	Node = "443.50093617 593.232618785 2.000000 10.000000";
+	Node = "443.191557447 600.018740331 2.000000 10.000000";
+	Node = "441.23506383 627.700685083 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "408.811302128 895.374850829 2.000000 10.000000";
+	Node = "422.580834042 898.277127072 2.000000 10.000000";
+	Node = "432.036493617 898.305414365 2.000000 10.000000";
+	Node = "443.8016 896.376220994 2.000000 10.000000";
+	Node = "455.566706383 891.660729282 2.000000 10.000000";
+	Node = "470.116221277 882.071337017 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "622.347982979 788.528088398 2.000000 10.000000";
+	Node = "630.679421277 800.623734807 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "639.930280851 795.520707182 2.000000 10.000000";
+	Node = "630.679421277 800.623734807 2.000000 10.000000";
+	Node = "619.354417021 806.739447514 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "569.97147234 732.43438674 2.000000 10.000000";
+	Node = "608.76146383 795.80640884 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "555.966638298 751.768751381 2.000000 10.000000";
+	Node = "561.531097872 760.546298343 2.000000 10.000000";
+	Node = "569.322212766 771.606629834 2.000000 10.000000";
+	Node = "577.736442553 784.412287293 2.000000 10.000000";
+	Node = "591.157378723 804.711248619 2.000000 10.000000";
+	Node = "606.051131915 826.930917127 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "571.012902128 756.622850829 2.000000 10.000000";
+	Node = "561.531097872 760.546298343 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "577.884595745 767.691668508 2.000000 10.000000";
+	Node = "569.322212766 771.606629834 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "585.357617021 781.224309392 2.000000 10.000000";
+	Node = "577.736442553 784.412287293 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "591.157378723 804.711248619 2.000000 10.000000";
+	Node = "608.76146383 795.80640884 2.000000 10.000000";
+	Node = "622.347982979 788.528088398 2.000000 10.000000";
+	Node = "623.825157447 787.29759116 2.000000 10.000000";
+	Node = "653.5168 771.105944751 2.000000 10.000000";
+	Node = "682.48946383 755.471558011 2.000000 10.000000";
+	Node = "705.566502127 746.006629834 2.000000 10.000000";
+	Node = "746.50907234 727.532198895 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "705.566502127 746.006629834 2.000000 10.000000";
+	Node = "711.950161702 757.253657459 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "724.225089362 751.219977901 2.000000 10.000000";
+	Node = "711.950161702 757.253657459 2.000000 10.000000";
+	Node = "699.836459575 762.32839779 2.000000 10.000000";
+	Node = "703.108902128 767.403138122 2.000000 10.000000";
+	Node = "664.318910638 787.017546961 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "669.39533617 794.148773481 2.000000 10.000000";
+	Node = "664.318910638 787.017546961 2.000000 10.000000";
+	Node = "653.5168 771.105944751 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "550.380391489 645.651801105 2.000000 10.000000";
+	Node = "513.006570213 648.030762431 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "526.998331915 613.163845304 2.000000 10.000000";
+	Node = "509.782059574 614.943116022 2.000000 10.000000";
+	Node = "485.06226383 617.460685083 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "484.308425532 608.360662983 2.000000 10.000000";
+	Node = "485.06226383 617.460685083 2.000000 10.000000";
+	Node = "485.968612766 625.047337017 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "514.932561702 590.285082873 2.000000 10.000000";
+	Node = "507.668697872 591.040353591 2.000000 10.000000";
+	Node = "493.812017021 592.053038674 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "582.799795745 718.579270718 2.000000 10.000000";
+	Node = "594.917855319 738.700022099 2.000000 10.000000";
+	Node = "623.825157447 787.29759116 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "461.985225532 642.616574586 2.000000 10.000000";
+	Node = "512.017429787 637.988773481 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "608.256 844.143734807 2.000000 10.000000";
+	Node = "569.130485106 857.820640884 2.000000 10.000000";
+	Node = "528.68466383 866.97440884 2.000000 10.000000";
+	Node = "478.39972766 893.660640884 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "425.421889362 749.138033149 2.000000 10.000000";
+	Node = "423.831421277 769.683093923 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "443.50093617 593.232618785 2.000000 10.000000";
+	Node = "449.248408511 591.343027624 2.000000 10.000000";
+	Node = "454.573208511 546.784883978 2.000000 10.000000";
+	Node = "453.431557447 545.039558011 2.000000 10.000000";
+	Node = "449.047965957 544.516243094 2.000000 10.000000";
+	Node = "438.232782979 543.017016575 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "950.659812766 353.20079558 2.000000 10.000000";
+	Node = "934.789991489 336.681016575 2.000000 10.000000";
+	Node = "932.336748936 336.299138122 2.000000 10.000000";
+	Node = "929.813787234 337.354254144 2.000000 10.000000";
+	Node = "912.967897872 349.899668508 2.000000 10.000000";
+	Node = "899.847625532 360.877966851 2.000000 10.000000";
+	Node = "889.642485106 366.798497238 2.000000 10.000000";
+	Node = "878.021174468 384.248928177 2.000000 10.000000";
+	Node = "886.457191489 408.77401105 2.000000 10.000000";
+	Node = "889.886502127 420.168132597 2.000000 10.000000";
+	Node = "885.529055319 427.271071823 2.000000 10.000000";
+	Node = "878.021174468 446.749701657 2.000000 10.000000";
+	Node = "896.42267234 476.174143646 2.000000 10.000000";
+	Node = "921.120680851 519.397127072 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "722.808919149 488.148154696 2.000000 10.000000";
+	Node = "758.160885106 477.189657459 2.000000 10.000000";
+	Node = "769.058859574 473.334099448 2.000000 10.000000";
+	Node = "793.512851064 465.419314917 2.000000 10.000000";
+	Node = "811.435029787 459.940066298 2.000000 10.000000";
+	Node = "856.469242553 444.925171271 2.000000 10.000000";
+	Node = "878.021174468 446.749701657 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "842.913225532 415.500729282 2.000000 10.000000";
+	Node = "856.469242553 444.925171271 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "819.905906383 431.531138122 2.000000 10.000000";
+	Node = "791.817804255 439.850430939 2.000000 10.000000";
+	Node = "786.493004255 445.737016575 2.000000 10.000000";
+	Node = "793.512851064 465.419314917 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "761.550978723 449.793414365 2.000000 10.000000";
+	Node = "769.058859574 473.334099448 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "758.160885106 477.189657459 2.000000 10.000000";
+	Node = "763.973719149 490.176353591 2.000000 10.000000";
+	Node = "793.756868085 481.653392265 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "811.435029787 459.940066298 2.000000 10.000000";
+	Node = "826.930110638 481.248883978 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "873.419710638 505.598585635 2.000000 10.000000";
+	Node = "843.396902128 514.528883978 2.000000 10.000000";
+	Node = "786.73266383 534.618519337 2.000000 10.000000";
+	Node = "729.589106383 554.504486188 2.000000 10.000000";
+	Node = "698.341855319 563.559248619 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "729.589106383 554.504486188 2.000000 10.000000";
+	Node = "738.304 573.174099447 2.000000 10.000000";
+	Node = "755.498485106 567.083845304 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "776.078706383 559.983734807 2.000000 10.000000";
+	Node = "799.569702127 551.460773481 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "786.73266383 534.618519337 2.000000 10.000000";
+	Node = "799.569702127 551.460773481 2.000000 10.000000";
+	Node = "806.10587234 559.171889503 2.000000 10.000000";
+	Node = "817.243506383 571.751248619 2.000000 10.000000";
+	Node = "825.479080851 582.506077348 2.000000 10.000000";
+	Node = "835.405344681 594.07558011 2.000000 10.000000";
+	Node = "843.152885106 589.000839779 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "816.276153191 553.285303867 2.000000 10.000000";
+	Node = "806.10587234 559.171889503 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "825.23506383 566.475668508 2.000000 10.000000";
+	Node = "817.243506383 571.751248619 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "833.710297872 577.029657459 2.000000 10.000000";
+	Node = "825.479080851 582.506077348 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "912.244561702 402.332994475 2.000000 10.000000";
+	Node = "886.457191489 408.77401105 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "395.033055319 298.92879558 2.000000 10.000000";
+	Node = "306.550740426 269.807027624 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "902.270365957 1137.67531492 2.000000 10.000000";
+	Node = "892.853923404 1111.97630939 2.000000 10.000000";
+	Node = "882.888442553 1085.32685083 2.000000 10.000000";
+	Node = "879.454774468 1078.64539227 2.000000 10.000000";
+	Node = "874.936102128 1070.16769061 2.000000 10.000000";
+	Node = "865.528374468 1052.00724862 2.000000 10.000000";
+	Node = "859.915982979 1046.90139227 2.000000 10.000000";
+	Node = "853.959353191 1039.14218785 2.000000 10.000000";
+	Node = "847.6672 1030.7040884 2.000000 10.000000";
+	Node = "805.896714893 978.881767956 2.000000 10.000000";
+	Node = "797.809293617 965.12 2.000000 10.000000";
+	Node = "787.726161702 941.452022099 2.000000 10.000000";
+	Node = "782.532085106 925.415955801 2.000000 10.000000";
+	Node = "779.311931915 908.771712707 2.000000 10.000000";
+	Node = "772.435880851 850.202872928 2.000000 10.000000";
+	Node = "766.344170213 798.734143646 2.000000 10.000000";
+	Node = "764.989004255 787.753016575 2.000000 10.000000";
+	Node = "762.683914894 776.805834254 2.000000 10.000000";
+	Node = "746.50907234 727.532198895 2.000000 10.000000";
+	Node = "740.317140426 706.814585635 2.000000 10.000000";
+	Node = "734.011914894 689.548022099 2.000000 10.000000";
+	Node = "701.86267234 592.242563536 2.000000 10.000000";
+	Node = "698.978042553 579.380331492 2.000000 10.000000";
+	Node = "698.115268085 569.380773481 2.000000 10.000000";
+	Node = "698.341855319 563.559248619 2.000000 10.000000";
+	Node = "699.060834043 556.009370166 2.000000 10.000000";
+	Node = "702.542434042 542.64079558 2.000000 10.000000";
+	Node = "706.228834042 533.122121547 2.000000 10.000000";
+	Node = "722.808919149 488.148154696 2.000000 10.000000";
+	Node = "742.417429787 439.148906077 2.000000 10.000000";
+	Node = "749.014604255 421.353370166 2.000000 10.000000";
+	Node = "752.54413617 410.063911602 2.000000 10.000000";
+	Node = "754.269685106 403.529546961 2.000000 10.000000";
+	Node = "755.080170213 396.553900552 2.000000 10.000000";
+	Node = "754.587778723 384.050917127 2.000000 10.000000";
+	Node = "750.857804255 369.086939227 2.000000 10.000000";
+	Node = "743.72466383 354.349259669 2.000000 10.000000";
+	Node = "741.972970213 350.493701657 2.000000 10.000000";
+	Node = "737.890042553 341.515314917 2.000000 10.000000";
+	Node = "726.54760851 311.907005525 2.000000 10.000000";
+	Node = "724.277378723 297.036375691 2.000000 10.000000";
+	Node = "723.959285106 282.46559116 2.000000 10.000000";
+	Node = "723.710910638 275.951027624 2.000000 10.000000";
+	Node = "723.122655319 270.13798895 2.000000 10.000000";
+	Node = "721.645480851 264.655911602 2.000000 10.000000";
+	Node = "716.120238298 252.308508287 2.000000 10.000000";
+	Node = "702.912817021 235.067403315 2.000000 10.000000";
+	Node = "700.612085106 232.068950276 2.000000 10.000000";
+	Node = "689.496238298 221.834607735 2.000000 10.000000";
+	Node = "687.496170213 219.778121547 2.000000 10.000000";
+	Node = "666.210042553 197.926187845 2.000000 10.000000";
+	Node = "663.286195745 194.922077348 2.000000 10.000000";
+	Node = "660.680442553 193.052287293 2.000000 10.000000";
+	Node = "648.418587234 184.249281768 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "886.239319149 -497.627226519 2.000000 10.000000";
+	Node = "883.829651064 -494.798497238 2.000000 10.000000";
+	Node = "882.313259574 -492.889104972 2.000000 10.000000";
+	Node = "876.578859574 -485.483491713 2.000000 10.000000";
+	Node = "866.295285106 -472.196950276 2.000000 10.000000";
+	Node = "862.534808511 -467.215558011 2.000000 10.000000";
+	Node = "853.837344681 -455.685657459 2.000000 10.000000";
+	Node = "847.754348936 -445.731359116 2.000000 10.000000";
+	Node = "842.721497872 -436.837834254 2.000000 10.000000";
+	Node = "841.091812766 -433.833723757 2.000000 10.000000";
+	Node = "827.182842553 -404.943911602 2.000000 10.000000";
+	Node = "823.169634043 -396.426607735 2.000000 10.000000";
+	Node = "822.128204255 -394.220198895 2.000000 10.000000";
+	Node = "812.119148936 -373.621392265 2.000000 10.000000";
+	Node = "808.354314894 -364.640176796 2.000000 10.000000";
+	Node = "801.691778723 -335.747535912 2.000000 10.000000";
+	Node = "800.820289362 -330.293745856 2.000000 10.000000";
+	Node = "797.055455319 -313.409060773 2.000000 10.000000";
+	Node = "790.680510638 -290.103160221 2.000000 10.000000";
+	Node = "781.40786383 -271.891801105 2.000000 10.000000";
+	Node = "766.923710638 -239.115314917 2.000000 10.000000";
+	Node = "765.363744681 -235.005171271 2.000000 10.000000";
+	Node = "755.337259574 -213.136265193 2.000000 10.000000";
+	Node = "744.613582979 -194.197922652 2.000000 10.000000";
+	Node = "738.242995745 -184.486895028 2.000000 10.000000";
+	Node = "734.765753191 -165.308110497 2.000000 10.000000";
+	Node = "730.935557447 -133.295381215 2.000000 10.000000";
+	Node = "730.743829787 -114.167513812 2.000000 10.000000";
+	Node = "731.815761702 -96.0947624309 2.000000 10.000000";
+	Node = "731.275438298 -88.3525303867 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "714.3424 -3.60097237569 2.000000 10.000000";
+	Node = "710.773651064 14.2822541437 2.000000 10.000000";
+	Node = "707.963097872 28.3636685083 2.000000 10.000000";
+	Node = "703.649225532 47.8705856354 2.000000 10.000000";
+	Node = "700.668731915 61.3579668508 2.000000 10.000000";
+	Node = "700.206842553 64.3139889503 2.000000 10.000000";
+	Node = "697.710025532 75.6062762431 2.000000 10.000000";
+	Node = "694.651097872 91.7611491713 2.000000 10.000000";
+	Node = "691.997412766 99.658961326 2.000000 10.000000";
+	Node = "688.772902128 107.553944751 2.000000 10.000000";
+	Node = "681.27373617 119.519469613 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "723.837276596 -52.7020552486 2.000000 10.000000";
+	Node = "716.961225532 -22.2536132597 2.000000 10.000000";
+	Node = "714.3424 -3.60097237569 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "731.275438298 -88.3525303867 2.000000 10.000000";
+	Node = "729.040068085 -80.785679558 2.000000 10.000000";
+	Node = "726.159795745 -65.7538121547 2.000000 10.000000";
+	Node = "723.837276596 -52.7020552486 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "730.700255319 -67.7537237569 2.000000 10.000000";
+	Node = "731.5456 -67.1653480663 2.000000 10.000000";
+	Node = "732.552170213 -66.7947845304 2.000000 10.000000";
+	Node = "733.641531915 -66.6759779006 2.000000 10.000000";
+	Node = "734.804970213 -66.8315580111 2.000000 10.000000";
+	Node = "735.863829787 -67.272839779 2.000000 10.000000";
+	Node = "736.730961702 -67.9771933702 2.000000 10.000000";
+	Node = "737.306144681 -68.8682430939 2.000000 10.000000";
+	Node = "737.524017021 -69.8639558011 2.000000 10.000000";
+	Node = "737.37586383 -70.8681546961 2.000000 10.000000";
+	Node = "736.866042553 -71.7846629834 2.000000 10.000000";
+	Node = "736.046842553 -72.5314475138 2.000000 10.000000";
+	Node = "735.062059574 -73.0123314917 2.000000 10.000000";
+	Node = "733.955268085 -73.2329723757 2.000000 10.000000";
+	Node = "732.813617021 -73.1792265193 2.000000 10.000000";
+	Node = "731.741685106 -72.8510939227 2.000000 10.000000";
+	Node = "730.830978723 -72.2796906077 2.000000 10.000000";
+	Node = "730.151217021 -71.5131049724 2.000000 10.000000";
+	Node = "729.732902128 -70.4806187845 2.000000 10.000000";
+	Node = "729.745974468 -69.391558011 2.000000 10.000000";
+	Node = "730.085855319 -68.517480663 2.000000 10.000000";
+	Node = "730.700255319 -67.7537237569 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "486.883676596 345.812154696 2.000000 10.000000";
+	Node = "485.009974468 347.486762431 2.000000 10.000000";
+	Node = "484.765957447 348.714430939 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "736.046842553 -72.5314475138 2.000000 10.000000";
+	Node = "733.19707234 -78.6415027624 2.000000 10.000000";
+	Node = "731.275438298 -88.3525303867 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "507.054297872 338.830850829 2.000000 10.000000";
+	Node = "504.191455319 339.054320442 2.000000 10.000000";
+	Node = "501.149957447 339.294762431 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "731.275438298 -88.3525303867 2.000000 10.000000";
+	Node = "730.639251064 -81.8832265193 2.000000 10.000000";
+	Node = "730.151217021 -71.5131049724 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "487.450144681 351.644994475 2.000000 10.000000";
+	Node = "491.894740425 352.188110497 2.000000 10.000000";
+	Node = "496.443914893 351.529016575 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "511.041361702 342.785414365 2.000000 10.000000";
+	Node = "507.054297872 338.830850829 2.000000 10.000000";
+	Node = "506.243812766 335.549524862 2.000000 10.000000";
+	Node = "506.962791489 328.551248619 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "504.269889362 332.585016575 2.000000 10.000000";
+	Node = "496.234757447 341.489856354 2.000000 10.000000";
+	Node = "492.008034043 343.806585635 2.000000 10.000000";
+	Node = "488.835812766 345.783867403 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "478.120851064 345.939447514 2.000000 10.000000";
+	Node = "484.765957447 348.714430939 2.000000 10.000000";
+	Node = "487.450144681 351.644994475 2.000000 10.000000";
+	Node = "489.811880851 359.005348066 2.000000 10.000000";
+	Node = "490.962246808 367.358585635 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "427.692119149 707.072 2.000000 10.000000";
+	Node = "444.707948936 705.434165746 2.000000 10.000000";
+	Node = "446.389923404 723.532375691 2.000000 10.000000";
+	Node = "444.455217021 744.037834254 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "423.487182979 684.532685083 2.000000 10.000000";
+	Node = "427.692119149 707.072 2.000000 10.000000";
+	Node = "427.774910638 716.511469613 2.000000 10.000000";
+	Node = "420.079659575 719.393944751 2.000000 10.000000";
+	Node = "404.323131915 723.340022099 2.000000 10.000000";
+	Node = "401.787097872 720.989348066 2.000000 10.000000";
+	Node = "400.562655319 707.173834254 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "458.080953191 674.813171271 2.000000 10.000000";
+	Node = "455.004595745 679.664441989 2.000000 10.000000";
+	Node = "453.627642553 681.395624309 2.000000 10.000000";
+	Node = "450.664578723 683.008 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "448.054468085 686.764552486 2.000000 10.000000";
+	Node = "449.967387234 688.215690608 2.000000 10.000000";
+	Node = "451.579642553 690.116596685 2.000000 10.000000";
+	Node = "452.773582979 692.620022099 2.000000 10.000000";
+	Node = "455.152748936 696.435977901 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "464.159591489 629.723226519 2.000000 10.000000";
+	Node = "462.255387234 628.58041989 2.000000 10.000000";
+	Node = "460.041804255 627.878895028 2.000000 10.000000";
+	Node = "457.832578723 627.779889503 2.000000 10.000000";
+	Node = "452.756153191 628.529502762 2.000000 10.000000";
+	Node = "450.485923404 629.112220994 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "465.697770213 619.542629834 2.000000 10.000000";
+	Node = "463.566978723 623.372729282 2.000000 10.000000";
+	Node = "461.475404255 625.525392265 2.000000 10.000000";
+	Node = "457.832578723 627.779889503 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "267.063557447 846.57078453 2.000000 10.000000";
+	Node = "264.810757447 840.274033149 2.000000 10.000000";
+	Node = "266.109276596 837.691403315 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "438.441940426 812.360132597 2.000000 10.000000";
+	Node = "418.990297872 811.723668508 2.000000 10.000000";
+	Node = "368.744578723 816.345812155 2.000000 10.000000";
+	Node = "351.040272341 821.137679558 2.000000 10.000000";
+	Node = "276.785021277 842.797259668 2.000000 10.000000";
+	Node = "267.063557447 846.57078453 2.000000 10.000000";
+	Node = "266.296646809 846.870629834 2.000000 10.000000";
+	Node = "249.930076596 857.585856354 2.000000 10.000000";
+	Node = "170.127795745 881.160486188 2.000000 10.000000";
+	Node = "156.536919149 885.870320442 2.000000 10.000000";
+	Node = "154.000885107 917.362563536 2.000000 10.000000";
+	Node = "198.599353191 899.866872928 2.000000 10.000000";
+	Node = "209.340459575 895.991513812 2.000000 10.000000";
+	Node = "219.907268085 921.950762431 2.000000 10.000000";
+	Node = "222.238502128 927.673281768 2.000000 10.000000";
+	Node = "224.552306383 933.359027624 2.000000 10.000000";
+	Node = "272.135625532 921.237922652 2.000000 10.000000";
+	Node = "286.898655319 943.109657459 2.000000 10.000000";
+	Node = "327.618995745 923.611226519 2.000000 10.000000";
+	Node = "331.945940425 929.610961326 2.000000 10.000000";
+	Node = "377.289531915 915.147668508 2.000000 10.000000";
+	Node = "384.444459575 912.864883978 2.000000 10.000000";
+	Node = "387.429310638 909.739138122 2.000000 10.000000";
+	Node = "390.409804255 905.49038674 2.000000 10.000000";
+	Node = "406.436493617 903.725259668 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "263.795472341 811.652950276 2.000000 10.000000";
+	Node = "266.928476596 824.512353591 2.000000 10.000000";
+	Node = "267.351148936 826.237878453 2.000000 10.000000";
+	Node = "267.882757447 828.469745856 2.000000 10.000000";
+	Node = "270.013548936 836.506165746 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "463.972221277 630.976353591 2.000000 10.000000";
+	Node = "462.373038298 631.683535912 2.000000 10.000000";
+	Node = "460.220459575 632.08238674 2.000000 10.000000";
+	Node = "458.133242553 631.932464088 2.000000 10.000000";
+	Node = "456.577634042 631.332773481 2.000000 10.000000";
+	Node = "451.919523404 629.330033149 2.000000 10.000000";
+	Node = "450.485923404 629.112220994 2.000000 10.000000";
+	Node = "441.23506383 627.700685083 2.000000 10.000000";
+	Node = "421.182093617 625.361325967 2.000000 10.000000";
+	Node = "413.953089362 624.518364641 2.000000 10.000000";
+	Node = "389.372731915 622.492994475 2.000000 10.000000";
+	Node = "380.3136 624.128 2.000000 10.000000";
+	Node = "366.992885106 627.700685083 2.000000 10.000000";
+	Node = "322.268051064 641.281414365 2.000000 10.000000";
+	Node = "311.535659575 643.657546961 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "456.577634042 631.332773481 2.000000 10.000000";
+	Node = "459.327182979 633.734364641 2.000000 10.000000";
+	Node = "460.699778724 636.189701657 2.000000 10.000000";
+	Node = "461.475404255 638.74121547 2.000000 10.000000";
+	Node = "461.985225532 642.616574586 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "371.912442553 870.589524862 2.000000 10.000000";
+	Node = "419.138451064 866.476552486 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "228.164629787 829.154298343 2.000000 10.000000";
+	Node = "230.831387234 844.814143646 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "247.119523404 827.476861878 2.000000 10.000000";
+	Node = "249.655557447 840.115624309 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "247.119523404 827.476861878 2.000000 10.000000";
+	Node = "243.5072 811.856618785 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "368.744578723 816.345812155 2.000000 10.000000";
+	Node = "371.912442553 870.589524862 2.000000 10.000000";
+	Node = "371.969089362 871.064751381 2.000000 10.000000";
+	Node = "377.289531915 915.147668508 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "378.631625532 360.694099448 2.000000 10.000000";
+	Node = "369.698859574 389.632 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "370.810008511 358.736618785 2.000000 10.000000";
+	Node = "378.631625532 360.694099448 2.000000 10.000000";
+	Node = "385.886774468 337.846453039 2.000000 10.000000";
+	Node = "379.128374468 333.125303867 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "437.0432 386.803270718 2.000000 10.000000";
+	Node = "437.361293617 399.029038674 2.000000 10.000000";
+	Node = "430.524459575 399.75319337 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "196.255046809 830.942055249 2.000000 10.000000";
+	Node = "188.246059575 841.346121547 2.000000 10.000000";
+	Node = "177.300153191 861.367867403 2.000000 10.000000";
+	Node = "170.127795745 881.160486188 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "486.957753192 382.302762431 2.000000 10.000000";
+	Node = "437.0432 386.803270718 2.000000 10.000000";
+	Node = "431.400306383 387.224751381 2.000000 10.000000";
+	Node = "430.524459575 399.75319337 2.000000 10.000000";
+	Node = "408.628289362 396.109790055 2.000000 10.000000";
+	Node = "390.727897872 393.131138122 2.000000 10.000000";
+	Node = "369.698859574 389.632 2.000000 10.000000";
+	Node = "362.256340425 388.393016575 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "289.051234043 716.32760221 2.000000 10.000000";
+	Node = "299.722621276 721.521149171 2.000000 10.000000";
+	Node = "330.507982979 717.46758011 2.000000 10.000000";
+	Node = "336.407965958 749.452022099 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "313.444221277 567.123447514 2.000000 10.000000";
+	Node = "381.707982979 563.887381215 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "365.419846809 376.048441989 2.000000 10.000000";
+	Node = "350.547880851 374.11641989 2.000000 10.000000";
+	Node = "262.231148936 361.817104972 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "412.632782979 281.039911602 2.000000 10.000000";
+	Node = "319.047897872 242.948243094 2.000000 10.000000";
+	Node = "316.690519149 239.154917127 2.000000 10.000000";
+	Node = "296.049293617 230.049237569 2.000000 10.000000";
+	Node = "287.356187234 225.650563536 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "335.227097872 500.076906077 2.000000 10.000000";
+	Node = "352.14706383 506.636729282 2.000000 10.000000";
+	Node = "363.010178723 510.277303867 2.000000 10.000000";
+	Node = "372.971302128 512.248928177 2.000000 10.000000";
+	Node = "382.932425532 512.099005525 2.000000 10.000000";
+	Node = "390.719182979 510.885480663 2.000000 10.000000";
+	Node = "405.024680851 507.089325967 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "345.833123404 475.783779006 2.000000 10.000000";
+	Node = "355.951114894 476.287292818 2.000000 10.000000";
+	Node = "364.003676596 476.148685083 2.000000 10.000000";
+	Node = "373.877651064 475.981790055 2.000000 10.000000";
+	Node = "398.688953191 475.376441989 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "360.644085106 396.254055249 2.000000 10.000000";
+	Node = "346.112 394.599248619 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "350.547880851 374.11641989 2.000000 10.000000";
+	Node = "347.567387234 388.13560221 2.000000 10.000000";
+	Node = "346.112 394.599248619 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "331.431761702 506.178475138 2.000000 10.000000";
+	Node = "345.541174468 514.825900552 2.000000 10.000000";
+	Node = "359.84667234 522.259801105 2.000000 10.000000";
+	Node = "369.084459575 523.778828729 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "742.417429787 439.148906077 2.000000 10.000000";
+	Node = "690.428731915 458.966983425 2.000000 10.000000";
+	Node = "638.239591489 478.983071823 2.000000 10.000000";
+	Node = "628.112885106 484.207734807 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "422.40653617 633.078099448 2.000000 10.000000";
+	Node = "421.456612766 627.089679558 2.000000 10.000000";
+	Node = "421.182093617 625.361325967 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "312.62066383 582.415558011 2.000000 10.000000";
+	Node = "318.516289362 581.897900552 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "661.482212766 265.665767956 2.000000 10.000000";
+	Node = "659.717446808 268.409635359 2.000000 10.000000";
+	Node = "663.286195745 273.815337017 2.000000 10.000000";
+	Node = "669.146961702 272.429259669 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "687.496170213 219.778121547 2.000000 10.000000";
+	Node = "708.708221277 204.123933702 2.000000 10.000000";
+	Node = "731.079353191 182.617104972 2.000000 10.000000";
+	Node = "708.359625532 166.75359116 2.000000 10.000000";
+	Node = "706.376987234 165.367513812 2.000000 10.000000";
+	Node = "704.594791489 164.564154696 2.000000 10.000000";
+	Node = "701.984680851 165.712618785 2.000000 10.000000";
+	Node = "703.222195745 168.244331492 2.000000 10.000000";
+	Node = "705.827948936 168.702585635 2.000000 10.000000";
+	Node = "708.359625532 166.75359116 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "731.079353191 182.617104972 2.000000 10.000000";
+	Node = "749.467778723 195.499138122 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "513.01092766 13.0064972376 2.000000 10.000000";
+	Node = "496.775080851 25.2068066298 2.000000 10.000000";
+	Node = "483.493582979 34.524640884 2.000000 10.000000";
+	Node = "469.323165957 43.7604419889 2.000000 10.000000";
+	Node = "460.760782979 49.8620110497 2.000000 10.000000";
+	Node = "454.13746383 55.1630497238 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "347.567387234 388.13560221 2.000000 10.000000";
+	Node = "319.348561702 384.809016575 2.000000 10.000000";
+	Node = "318.420425532 389.776265193 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "331.118025532 412.575823204 2.000000 10.000000";
+	Node = "329.684425532 444.543292818 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "421.430468085 96.6689944752 2.000000 10.000000";
+	Node = "417.748425532 96.4907845304 2.000000 10.000000";
+	Node = "415.517412766 94.6605966851 2.000000 10.000000";
+	Node = "415.260323404 92.0751381216 2.000000 10.000000";
+	Node = "417.404187234 89.1332596685 2.000000 10.000000";
+	Node = "419.247387234 88.1290607735 2.000000 10.000000";
+	Node = "421.386893617 88.1997790055 2.000000 10.000000";
+	Node = "423.870638298 90.2817237569 2.000000 10.000000";
+	Node = "425.169157447 93.4499005525 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "371.969089362 871.064751381 2.000000 10.000000";
+	Node = "355.667880851 873.214585635 2.000000 10.000000";
+	Node = "354.774604255 873.11558011 2.000000 10.000000";
+	Node = "353.341004255 863.053790055 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "723.959285106 282.46559116 2.000000 10.000000";
+	Node = "712.542774468 288.278629834 2.000000 10.000000";
+	Node = "695.522587234 296.360309392 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "741.972970213 350.493701657 2.000000 10.000000";
+	Node = "780.41000851 339.775646409 2.000000 10.000000";
+	Node = "796.231897872 334.782939227 2.000000 10.000000";
+	Node = "806.28452766 331.348861878 2.000000 10.000000";
+	Node = "818.385157447 329.479071823 2.000000 10.000000";
+	Node = "822.851540426 328.38718232 2.000000 10.000000";
+	Node = "842.773787234 311.069701657 2.000000 10.000000";
+	Node = "847.985293617 309.977812155 2.000000 10.000000";
+	Node = "856.547676596 310.755712707 2.000000 10.000000";
+	Node = "861.576170213 310.755712707 2.000000 10.000000";
+	Node = "922.449702127 255.997171271 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "316.280919149 691.43478453 2.000000 10.000000";
+	Node = "316.886604255 701.035491713 2.000000 10.000000";
+	Node = "308.136851064 702.019889503 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "744.6528 -67.8979889502 2.000000 10.000000";
+	Node = "751.554995745 -66.9871381215 2.000000 10.000000";
+	Node = "794.388697872 -63.4201104972 2.000000 10.000000";
+	Node = "808.014434043 -62.002917127 2.000000 10.000000";
+	Node = "819.722893617 -61.4286850829 2.000000 10.000000";
+	Node = "828.202485106 -61.9406850829 2.000000 10.000000";
+	Node = "835.997957447 -62.5714917127 2.000000 10.000000";
+	Node = "840.268255319 -63.4087955801 2.000000 10.000000";
+	Node = "855.066144681 -67.1540331492 2.000000 10.000000";
+	Node = "874.40013617 -72.0477348066 2.000000 10.000000";
+	Node = "903.634246808 -79.83239779 2.000000 10.000000";
+	Node = "937.757412766 -91.2548066298 2.000000 10.000000";
+	Node = "954.306995745 -96.8217458564 2.000000 10.000000";
+	Node = "1038.6715234 -125.196729282 2.000000 10.000000";
+	Node = "1068.87734468 -133.450961326 2.000000 10.000000";
+	Node = "1095.6146383 -139.860861878 2.000000 10.000000";
+	Node = "1105.14001702 -141.529812155 2.000000 10.000000";
+	Node = "1156.15700426 -146.581922652 2.000000 10.000000";
+	Node = "1217.64493617 -153.192662983 2.000000 10.000000";
+	Node = "1327.07349787 -163.967292818 2.000000 10.000000";
+	Node = "1339.1872 -165.268508287 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "478.39972766 893.660640884 2.000000 10.000000";
+	Node = "479.720034043 888.294541436 2.000000 10.000000";
+	Node = "479.035914894 876.444994475 2.000000 10.000000";
+	Node = "476.939982979 861.291491713 2.000000 10.000000";
+	Node = "477.397514893 849.837966851 2.000000 10.000000";
+	Node = "487.053617021 832.005657459 2.000000 10.000000";
+	Node = "491.476425532 825.833370166 2.000000 10.000000";
+	Node = "519.956697872 796.208088398 2.000000 10.000000";
+	Node = "536.323268085 778.924552486 2.000000 10.000000";
+	Node = "545.652561702 765.346651934 2.000000 10.000000";
+	Node = "555.966638298 751.768751381 2.000000 10.000000";
+	Node = "560.711897872 744.909082873 2.000000 10.000000";
+	Node = "569.97147234 732.43438674 2.000000 10.000000";
+	Node = "582.799795745 718.579270718 2.000000 10.000000";
+	Node = "598.84827234 706.093259669 2.000000 10.000000";
+	Node = "615.380425532 696.628331492 2.000000 10.000000";
+	Node = "623.136680851 692.628508287 2.000000 10.000000";
+	Node = "630.352612766 686.835270718 2.000000 10.000000";
+	Node = "639.546825532 676.524552486 2.000000 10.000000";
+	Node = "647.045991489 666.242121547 2.000000 10.000000";
+	Node = "652.837038298 658.095381215 2.000000 10.000000";
+	Node = "667.43012766 646.291093923 2.000000 10.000000";
+	Node = "677.216953191 635.878541436 2.000000 10.000000";
+	Node = "684.267302128 626.045878453 2.000000 10.000000";
+	Node = "691.531165957 612.054983425 2.000000 10.000000";
+	Node = "698.646876596 594.929856354 2.000000 10.000000";
+	Node = "701.86267234 592.242563536 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "706.228834042 533.122121547 2.000000 10.000000";
+	Node = "667.935591489 542.700198895 2.000000 10.000000";
+	Node = "658.039829787 545.28 2.000000 10.000000";
+	Node = "652.976476596 545.31960221 2.000000 10.000000";
+	Node = "651.460085106 544.960353591 2.000000 10.000000";
+	Node = "650.741106383 543.930696133 2.000000 10.000000";
+	Node = "648.148425532 509.903911602 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "750.857804255 369.086939227 2.000000 10.000000";
+	Node = "820.03227234 361.554033149 2.000000 10.000000";
+	Node = "833.666723404 355.458121547 2.000000 10.000000";
+	Node = "848.721702128 345.085171271 2.000000 10.000000";
+	Node = "853.710978723 342.066917127 2.000000 10.000000";
+	Node = "865.768034043 340.069834254 2.000000 10.000000";
+	Node = "868.718025532 338.516861878 2.000000 10.000000";
+	Node = "955.988970213 263.102939227 2.000000 10.000000";
+	Node = "971.484051064 235.709524862 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "780.889327659 14.9950939226 2.000000 10.000000";
+	Node = "769.124221276 27.2434917127 2.000000 10.000000";
+	Node = "765.14587234 29.2264309393 2.000000 10.000000";
+	Node = "761.638127659 29.8713812155 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "729.745974468 -69.391558011 2.000000 10.000000";
+	Node = "728.212153192 -67.343558011 2.000000 10.000000";
+	Node = "723.837276596 -52.7020552486 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "714.3424 -3.60097237569 2.000000 10.000000";
+	Node = "726.2208 -55.5053259669 2.000000 10.000000";
+	Node = "729.118502127 -62.0312044199 2.000000 10.000000";
+	Node = "733.641531915 -66.6759779006 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "496.862229787 350.606850829 2.000000 10.000000";
+	Node = "499.31547234 348.773834254 2.000000 10.000000";
+	Node = "502.204459574 344.448707182 2.000000 10.000000";
+	Node = "504.64027234 342.734497238 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "544.881293617 358.589524862 2.000000 10.000000";
+	Node = "576.751659574 324.390187845 2.000000 10.000000";
+	Node = "578.350842553 318.585635359 2.000000 10.000000";
+	Node = "577.993531915 314.268994475 2.000000 10.000000";
+	Node = "566.629310638 299.981082873 2.000000 10.000000";
+	Node = "552.981787234 286.60119337 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "478.120851064 345.939447514 2.000000 10.000000";
+	Node = "462.194382979 345.076685083 2.000000 10.000000";
+	Node = "441.788459574 341.540773481 2.000000 10.000000";
+	Node = "423.508970213 337.736132597 2.000000 10.000000";
+	Node = "381.097940426 328.324950276 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "681.27373617 119.519469613 2.000000 10.000000";
+	Node = "677.561191489 124.684729282 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "677.561191489 124.684729282 2.000000 10.000000";
+	Node = "677.138519149 125.075093923 2.000000 10.000000";
+	Node = "675.473974468 127.176839779 2.000000 10.000000";
+	Node = "658.859029787 148.137723757 2.000000 10.000000";
+	Node = "655.037548936 153.161546961 2.000000 10.000000";
+	Node = "646.954485106 163.777767956 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "1075.69674894 165.435403315 2.000000 10.000000";
+	Node = "1074.52459574 169.760530387 2.000000 10.000000";
+	Node = "1058.49354894 203.594961326 2.000000 10.000000";
+	Node = "1056.41068936 211.818077348 2.000000 10.000000";
+	Node = "1056.0228766 220.519248619 2.000000 10.000000";
+	Node = "1056.41068936 238.566541436 2.000000 10.000000";
+	Node = "1056.11438298 245.793944751 2.000000 10.000000";
+	Node = "1052.7460766 262.822895028 2.000000 10.000000";
+	Node = "1051.75257872 267.057502762 2.000000 10.000000";
+	Node = "1044.8155234 283.588596685 2.000000 10.000000";
+	Node = "1039.06805106 315.318453039 2.000000 10.000000";
+	Node = "1032.62338723 345.220950276 2.000000 10.000000";
+	Node = "1032.32708085 360.340508287 2.000000 10.000000";
+	Node = "1030.94141277 378.614099448 2.000000 10.000000";
+	Node = "1029.65160851 390.57679558 2.000000 10.000000";
+	Node = "1016.37011064 457.360265193 2.000000 10.000000";
+	Node = "1007.35019574 496.815381215 2.000000 10.000000";
+	Node = "1001.89902979 521.153767956 2.000000 10.000000";
+	Node = "994.565446808 542.253259669 2.000000 10.000000";
+	Node = "978.560544681 587.911779006 2.000000 10.000000";
+	Node = "972.176885106 610.354917127 2.000000 10.000000";
+	Node = "959.052255319 649.331977901 2.000000 10.000000";
+	Node = "957.666587234 654.732022099 2.000000 10.000000";
+	Node = "954.276493617 670.253259669 2.000000 10.000000";
+	Node = "951.940902127 692.965127072 2.000000 10.000000";
+	Node = "951.422365957 697.177104972 2.000000 10.000000";
+	Node = "947.657531915 712.044906077 2.000000 10.000000";
+	Node = "945.278365957 720.18598895 2.000000 10.000000";
+	Node = "942.541889362 726.48839779 2.000000 10.000000";
+	Node = "935.068868085 742.114298343 2.000000 10.000000";
+	Node = "924.56306383 762.218077348 2.000000 10.000000";
+	Node = "920.101038298 771.603801105 2.000000 10.000000";
+	Node = "918.02253617 776.754917127 2.000000 10.000000";
+	Node = "914.754451064 786.231160221 2.000000 10.000000";
+	Node = "913.041974468 803.712707182 2.000000 10.000000";
+	Node = "911.734740425 821.99761326 2.000000 10.000000";
+	Node = "909.333787234 835.221922652 2.000000 10.000000";
+	Node = "903.433804255 852.069834254 2.000000 10.000000";
+	Node = "894.196017021 887.615646409 2.000000 10.000000";
+	Node = "888.052017021 916.938254144 2.000000 10.000000";
+	Node = "883.886297872 937.539889503 2.000000 10.000000";
+	Node = "873.415353191 979.243845304 2.000000 10.000000";
+	Node = "870.164697872 995.401546961 2.000000 10.000000";
+	Node = "868.073123404 1009.44618785 2.000000 10.000000";
+	Node = "865.737531915 1031.62625414 2.000000 10.000000";
+	Node = "865.528374468 1052.00724862 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "627.938587234 189.103381215 2.000000 10.000000";
+	Node = "624.849157447 193.369104972 2.000000 10.000000";
+	Node = "615.489361702 202.457812155 2.000000 10.000000";
+	Node = "610.055625532 206.302055249 2.000000 10.000000";
+	Node = "601.71547234 212.20278453 2.000000 10.000000";
+	Node = "588.163812766 222.674740331 2.000000 10.000000";
+	Node = "580.098178723 229.268508287 2.000000 10.000000";
+	Node = "572.228629787 237.825414365 2.000000 10.000000";
+	Node = "538.2144 277.727469613 2.000000 10.000000";
+	Node = "527.207489362 293.260022099 2.000000 10.000000";
+	Node = "514.113361702 314.715933702 2.000000 10.000000";
+	Node = "506.962791489 328.551248619 2.000000 10.000000";
+	Node = "504.269889362 332.585016575 2.000000 10.000000";
+	Node = "501.149957447 339.294762431 2.000000 10.000000";
+	Node = "497.101889362 349.817635359 2.000000 10.000000";
+	Node = "496.862229787 350.606850829 2.000000 10.000000";
+	Node = "496.443914893 351.529016575 2.000000 10.000000";
+	Node = "490.962246808 367.358585635 2.000000 10.000000";
+	Node = "486.957753192 382.302762431 2.000000 10.000000";
+	Node = "486.321565958 385.824530387 2.000000 10.000000";
+	Node = "481.537089362 413.042563536 2.000000 10.000000";
+	Node = "477.737395745 462.703734807 2.000000 10.000000";
+	Node = "476.613174468 484.159646409 2.000000 10.000000";
+	Node = "475.628391489 502.090961326 2.000000 10.000000";
+	Node = "474.735114894 518.33918232 2.000000 10.000000";
+	Node = "472.2688 563.310320442 2.000000 10.000000";
+	Node = "470.817770213 579.82161326 2.000000 10.000000";
+	Node = "467.920068085 604.827580111 2.000000 10.000000";
+	Node = "465.697770213 619.542629834 2.000000 10.000000";
+	Node = "464.159591489 629.723226519 2.000000 10.000000";
+	Node = "463.972221277 630.976353591 2.000000 10.000000";
+	Node = "461.985225532 642.616574586 2.000000 10.000000";
+	Node = "458.080953191 674.813171271 2.000000 10.000000";
+	Node = "456.708357447 685.225723757 2.000000 10.000000";
+	Node = "456.525344681 686.425104972 2.000000 10.000000";
+	Node = "455.876085106 689.805436464 2.000000 10.000000";
+	Node = "455.152748936 696.435977901 2.000000 10.000000";
+	Node = "451.509923404 722.417856354 2.000000 10.000000";
+	Node = "450.442348936 728.788154696 2.000000 10.000000";
+	Node = "448.355131915 742.962917127 2.000000 10.000000";
+	Node = "444.943251064 764.116154696 2.000000 10.000000";
+	Node = "443.609872341 777.45078453 2.000000 10.000000";
+	Node = "438.441940426 812.360132597 2.000000 10.000000";
+	Node = "435.108493617 830.441370166 2.000000 10.000000";
+	Node = "433.526740425 835.19080663 2.000000 10.000000";
+	Node = "429.674757447 843.493127072 2.000000 10.000000";
+	Node = "419.138451064 866.476552486 2.000000 10.000000";
+	Node = "412.305974468 883.412154696 2.000000 10.000000";
+	Node = "408.811302128 895.374850829 2.000000 10.000000";
+	Node = "406.436493617 903.725259668 2.000000 10.000000";
+	Node = "399.939540426 927.461127072 2.000000 10.000000";
+	Node = "399.277208511 933.163845304 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "326.181038298 774.022364641 2.000000 10.000000";
+	Node = "320.564289362 751.867756906 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Path1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "511.041361702 342.785414365 2.000000 10.000000";
+	Node = "517.590604255 345.305812155 2.000000 10.000000";
+	Node = "544.881293617 358.589524862 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "643.037140425 178.572022099 2.000000 10.000000";
+	Node = "641.599182979 177.42921547 2.000000 10.000000";
+	Node = "639.799557447 177.067138122 2.000000 10.000000";
+	Node = "636.649123404 177.316066298 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "636.649123404 177.316066298 2.000000 10.000000";
+	Node = "637.607761702 179.347093923 2.000000 10.000000";
+	Node = "639.023931915 180.628508287 2.000000 10.000000";
+	Node = "641.11986383 181.344176796 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "648.418587234 184.249281768 2.000000 10.000000";
+	Node = "643.037140425 178.572022099 2.000000 10.000000";
+	Node = "641.956493617 176.385414365 2.000000 10.000000";
+	Node = "642.034927659 173.856530387 2.000000 10.000000";
+	Node = "646.026348936 167.882254144 2.000000 10.000000";
+	Node = "646.954485106 163.777767956 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "627.938587234 189.103381215 2.000000 10.000000";
+	Node = "632.030229787 186.809281768 2.000000 10.000000";
+	Node = "634.108731915 184.071071823 2.000000 10.000000";
+	Node = "634.932289362 182.987668508 2.000000 10.000000";
+	Node = "637.978144681 181.890121547 2.000000 10.000000";
+	Node = "641.11986383 181.344176796 2.000000 10.000000";
+	Node = "643.812765957 181.924066298 2.000000 10.000000";
+	Node = "648.418587234 184.249281768 2.000000 10.000000";
+};
+
+new DecalRoad() {
+	Material = "Asphalt1Material";
+	textureLength = "5";
+	breakAngle = "3";
+	renderPriority = "10";
+	position = "0 0 2";
+	rotation = "1 0 0 0";
+	scale = "1 1 1";
+	canSave = "1";
+	canSaveDynamicFields = "1";
+
+	Node = "646.954485106 163.777767956 2.000000 10.000000";
+	Node = "636.649123404 177.316066298 2.000000 10.000000";
+	Node = "636.078297872 178.068508287 2.000000 10.000000";
+	Node = "632.221957447 183.293171271 2.000000 10.000000";
+	Node = "627.938587234 189.103381215 2.000000 10.000000";
+};
+
