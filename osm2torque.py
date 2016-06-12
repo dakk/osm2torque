@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import math
 import sys
 import xml.etree.ElementTree
 
@@ -39,15 +40,48 @@ new SimGroup(MissionGroup) {
 """
 
 
+class TransverseMercator:
+    radius = 6378137
+
+    def __init__(self, **kwargs):
+        # setting default values
+        self.lat = 0 # in degrees
+        self.lon = 0 # in degrees
+        self.k = 1 # scale factor
+        
+        for attr in kwargs:
+            setattr(self, attr, kwargs[attr])
+        self.latInRadians = math.radians(self.lat)
+
+    def fromGeographic(self, lat, lon):
+        lat = math.radians(lat)
+        lon = math.radians(lon-self.lon)
+        B = math.sin(lon) * math.cos(lat)
+        x = 0.5 * self.k * self.radius * math.log((1+B)/(1-B))
+        y = self.k * self.radius * ( math.atan(math.tan(lat)/math.cos(lon)) - self.latInRadians )
+        return (x,y)
+
+    def toGeographic(self, x, y):
+        x = x/(self.k * self.radius)
+        y = y/(self.k * self.radius)
+        D = y + self.latInRadians
+        lon = math.atan(math.sinh(x)/math.cos(D))
+        lat = math.asin(math.sin(D)/math.cosh(x))
+
+        lon = self.lon + math.degrees(lon)
+        lat = math.degrees(lat)
+        return (lat, lon)
+        
+
 
 class OSM2Torque:
 	# Translate Highway way type to torque materials
 	MATERIALS = {
-		"path": "Path1Material",
-		"primary": "Asphalt1Material",
-		"secondary": "Asphalt1Material",
-		"tertiary": "Asphalt1Material",
-		"unclassified": "Path1Material"
+		"path": "Mat_road_asphalt_stripes_01",
+		"primary": "Mat_road_asphalt_stripes_01",
+		"secondary": "Mat_road_asphalt_stripes_01",
+		"tertiary": "Mat_road_asphalt_stripes_01",
+		"unclassified": "Mat_road_asphalt_stripes_01"
 	}
 
 	def __init__ (self, osmpath):
@@ -68,11 +102,14 @@ class OSM2Torque:
 		# Boundary
 		for b in e.findall ('bounds'):
 			self.osm['bounds'] = { 'minlat': b.get ('minlat'), 'minlon': b.get ('minlon'), 'maxlat': b.get ('maxlat'), 'maxlon': b.get ('maxlon') }
+			lat = (float (b.get ('minlat')) + float (b.get ('maxlat')))/2
+			lon = (float (b.get ('minlon')) + float (b.get ('maxlon')))/2
+			self.projection = TransverseMercator(lat=lat, lon=lon)
 		
 		# Add all nodes
 		for n in e.findall('node'):
 			if n.get ('visible') == 'true':
-				self.osm['nodes'][n.get ('id')] = { 'lat': n.get ('lat'), 'lon': n.get ('lon') }
+				self.osm['nodes'][n.get ('id')] = { 'lat': float (n.get ('lat')), 'lon': float (n.get ('lon')) }
 	
 		# For all ways where
 		for w in e.findall('way'):
@@ -91,15 +128,6 @@ class OSM2Torque:
 					self.osm['highways'].append (hw)				
 	
 	
-	
-	def _translateCoord (self, lat, lon):
-		lonf = float (self.osm['bounds']['maxlon']) - float (self.osm['bounds']['minlon'])
-		latf = float (self.osm['bounds']['maxlat']) - float (self.osm['bounds']['minlat'])
-
-		lat1 = float (lat) - float (self.osm['bounds']['minlat'])
-		lon1 = float (lon) - float (self.osm['bounds']['minlon'])
-		
-		return (lat1 * 1024 / latf - 128, lon1 *  1024 / lonf - 128)
 		
 		
 		
@@ -120,7 +148,7 @@ class OSM2Torque:
 
 		for nd in hw['nodes']:
 			node = self.osm['nodes'][nd]
-			lat,lon = self._translateCoord (node['lat'], node['lon'])
+			lat,lon = self.projection.fromGeographic (node['lat'], node['lon'])
 			data += '\tNode = "' + str (lat) + ' ' + str (lon) + ' 2.000000 10.000000";\n'
 
 		data += "};\n\n"
